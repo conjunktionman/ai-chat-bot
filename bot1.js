@@ -217,7 +217,7 @@
         .chat-assist-widget .bot-bubble p:last-child { margin-bottom: 0; }
         .chat-assist-widget .bot-bubble ul,
         .chat-assist-widget .bot-bubble ol { margin: 0.5em 0 0.5em 1.5em; padding-left: 1em; }
-        .chat-assist-widget .bot-bubble li { margin-bottom: 0.25em; font-size:14px }
+        .chat-assist-widget .bot-bubble li { margin-bottom: 0.25em; font-size:14px; }
         .chat-assist-widget .bot-bubble a { color: var(--chat-color-primary); text-decoration: underline; }
         .chat-assist-widget .bot-bubble a:hover { color: var(--chat-color-secondary); }
         .chat-assist-widget .bot-bubble code {

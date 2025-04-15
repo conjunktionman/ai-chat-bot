@@ -206,7 +206,7 @@
             border-radius: var(--chat-radius-md);
             max-width: 85%;
             word-wrap: break-word;
-            font-size: 14px;
+            font-size: 14px!important;
             line-height: 1.6;
             position: relative;
             /* white-space: pre-line; <-- REMOVED this, markdown/html will handle line breaks */

@@ -574,7 +574,7 @@
     // Default configuration
     const defaultSettings = {
         webhook: { url: '', route: '' },
-        branding: { logo: '', name: '', welcomeText: '', responseTimeText: '', poweredBy: { text: 'Powered by n8n', link: 'https://n8n.partnerlinks.io/fabimarkl' } },
+        branding: { logo: '', name: '', welcomeText: '', responseTimeText: '', poweredBy: { text: 'Powered by AI Staff Pro', link: 'https://aistaffpro.co.uk/' } },
         style: { primaryColor: '#10b981', secondaryColor: '#059669', position: 'right', backgroundColor: '#ffffff', fontColor: '#1f2937' },
         suggestedQuestions: []
     };
